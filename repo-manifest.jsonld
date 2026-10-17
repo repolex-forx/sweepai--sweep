@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sweepai/sweep/commit/a8b8b67bda4f89faac9314d34e7c7d5a64f76046",
       "git:hexsha": "a8b8b67bda4f89faac9314d34e7c7d5a64f76046",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sweepai/sweep/commit/6cf30c7e812c4007c21e9808ab75d39adb2ab5cf",
