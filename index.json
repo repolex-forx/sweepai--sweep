@@ -1,0 +1,11 @@
+{
+  "org": "sweepai",
+  "repo": "sweep",
+  "versions": [
+    {
+      "commit": "a8b8b67bda4f89faac9314d34e7c7d5a64f76046",
+      "tag": "",
+      "parsed_at": "2026-10-17T19:46:04.970599+00:00"
+    }
+  ]
+}
